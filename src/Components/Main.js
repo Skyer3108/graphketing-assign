@@ -102,9 +102,6 @@ const Main = () => {
 
 
 
-
-
-
                 <div className='noti'>
                     <img className='notify' src={noti} />
                     <img className='pro' src={profile} />
