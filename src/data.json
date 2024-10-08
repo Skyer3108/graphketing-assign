@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "name": "Conrad Alexander",
+        "teacherid": "10001",
+        "department": "Finance",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Marcelo Cruz",
+        "teacherid": "10002",
+        "department": "Engineer",
+        "student": 20,
+        "status": "InActive"
+    },
+    {
+        "id": 3,
+        "name": "Bing Manalo",
+        "teacherid": "10003",
+        "department": "Arts",
+        "student": 16,
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "name": "Sai Kiran",
+        "teacherid": "10004",
+        "department": "Finance",
+        "student": 10,
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "name": "Conrad Alexander",
+        "teacherid": "10005",
+        "department": "Engineer",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "name": "Marcelo Cruz",
+        "teacherid": "10006",
+        "department": "Arts",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "name": "Boppani",
+        "teacherid": "10007",
+        "department": "Arts",
+        "student": 16,
+        "status": "Active"
+    },
+    {
+        "id": 8,
+        "name": "Kiran",
+        "teacherid": "10008",
+        "department": "Finance",
+        "student": 10,
+        "status": "Active"
+    },
+    {
+        "id": 9,
+        "name": "Krishna Kumar",
+        "teacherid": "10009",
+        "department": "Engineer",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id":10,
+        "name":"Marcelo Cruz",
+        "teacherid":"10010",
+        "department":"Arts",
+        "student":20,
+        "status":"Active"
+        
+        },
+        
+    {
+        "id": 11,
+        "name": "Conrad Alexander",
+        "teacherid": "10001",
+        "department": "Finance",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id": 12,
+        "name": "Marcelo Cruz",
+        "teacherid": "10002",
+        "department": "Engineer",
+        "student": 20,
+        "status": "InActive"
+    },
+    {
+        "id": 13,
+        "name": "Bing Manalo",
+        "teacherid": "10003",
+        "department": "Arts",
+        "student": 16,
+        "status": "Active"
+    },
+    {
+        "id": 14,
+        "name": "Sai Kiran",
+        "teacherid": "10004",
+        "department": "Finance",
+        "student": 10,
+        "status": "Active"
+    },
+    {
+        "id": 15,
+        "name": "Conrad Alexander",
+        "teacherid": "10005",
+        "department": "Engineer",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id": 16,
+        "name": "Marcelo Cruz",
+        "teacherid": "10006",
+        "department": "Arts",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id": 17,
+        "name": "Boppani",
+        "teacherid": "10007",
+        "department": "Arts",
+        "student": 16,
+        "status": "Active"
+    },
+    {
+        "id": 18,
+        "name": "Kiran",
+        "teacherid": "10008",
+        "department": "Finance",
+        "student": 10,
+        "status": "Active"
+    },
+    {
+        "id": 19,
+        "name": "Krishna Kumar",
+        "teacherid": "10009",
+        "department": "Engineer",
+        "student": 20,
+        "status": "Active"
+    },
+    {
+        "id":20,
+        "name":"Marcelo Cruz",
+        "teacherid":"10010",
+        "department":"Arts",
+        "student":20,
+        "status":"Active"
+        
+        }
+]
