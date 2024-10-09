@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-import { faArrowRight,faChevronDown, faChevronUp,faSearch ,faGreaterThan, faL, faArrowLeft  } from '@fortawesome/free-solid-svg-icons';
+import { faArrowRight,faChevronDown, faChevronUp,faSearch ,faGreaterThan, faL, faArrowLeft, faFilter  } from '@fortawesome/free-solid-svg-icons';
 
 import filter from '../Accests/Group 346.png'
 import './Main.css'
@@ -99,7 +99,7 @@ const Main = () => {
                 </div>
 
                 <img className='filter' src={filter} onClick={()=>setFilterOpen(!filterOpen)} />
-
+                {/* <FontAwesomeIcon className='filter' onClick={()=>setFilterOpen(!filterOpen)} icon={faFilter} style={{ marginRight: '10px' }} /> */}
 
 
                 <div className='noti'>

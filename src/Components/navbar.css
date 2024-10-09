@@ -57,14 +57,7 @@ color: #fff;
     border-bottom-left-radius: 30px;
     transition: background-color 0.3s, color 0.3s;
 }
-.list:hover{
-    background-color: white;
-    color: #194895;
-    cursor: pointer;
 
-    border-top-left-radius: 50px; 
-    border-bottom-left-radius: 50px;
-}
 
 /* Pseudo-elements for the curved effect */
 .list::before, .list::after {
@@ -99,7 +92,14 @@ color: #fff;
     box-shadow: 35px -35px 0 10px white;
 }
 
+.list:hover{
+    background-color: white;
+    color: #194895;
+    cursor: pointer;
 
+    border-top-left-radius: 50px; 
+    border-bottom-left-radius: 50px;
+}
 
 
 
