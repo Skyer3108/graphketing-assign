@@ -83,48 +83,48 @@
         
     {
         "id": 11,
-        "name": "Conrad Alexander",
-        "teacherid": "10001",
+        "name": "Conrad",
+        "teacherid": "10011",
         "department": "Finance",
         "student": 20,
         "status": "Active"
     },
     {
         "id": 12,
-        "name": "Marcelo Cruz",
-        "teacherid": "10002",
+        "name": "Cruz",
+        "teacherid": "10012",
         "department": "Engineer",
         "student": 20,
         "status": "InActive"
     },
     {
         "id": 13,
-        "name": "Bing Manalo",
-        "teacherid": "10003",
+        "name": " Manalo",
+        "teacherid": "10013",
         "department": "Arts",
         "student": 16,
         "status": "Active"
     },
     {
         "id": 14,
-        "name": "Sai Kiran",
-        "teacherid": "10004",
+        "name": "Sai",
+        "teacherid": "10014",
         "department": "Finance",
         "student": 10,
         "status": "Active"
     },
     {
         "id": 15,
-        "name": "Conrad Alexander",
-        "teacherid": "10005",
+        "name": "Alexander",
+        "teacherid": "10015",
         "department": "Engineer",
         "student": 20,
         "status": "Active"
     },
     {
         "id": 16,
-        "name": "Marcelo Cruz",
-        "teacherid": "10006",
+        "name": "Marcelo",
+        "teacherid": "10016",
         "department": "Arts",
         "student": 20,
         "status": "Active"
@@ -132,7 +132,7 @@
     {
         "id": 17,
         "name": "Boppani",
-        "teacherid": "10007",
+        "teacherid": "10017",
         "department": "Arts",
         "student": 16,
         "status": "Active"
@@ -140,23 +140,23 @@
     {
         "id": 18,
         "name": "Kiran",
-        "teacherid": "10008",
+        "teacherid": "10018",
         "department": "Finance",
         "student": 10,
         "status": "Active"
     },
     {
         "id": 19,
-        "name": "Krishna Kumar",
-        "teacherid": "10009",
+        "name": "Kumar",
+        "teacherid": "10019",
         "department": "Engineer",
         "student": 20,
         "status": "Active"
     },
     {
         "id":20,
-        "name":"Marcelo Cruz",
-        "teacherid":"10010",
+        "name":"Krishna",
+        "teacherid":"10020",
         "department":"Arts",
         "student":20,
         "status":"Active"
